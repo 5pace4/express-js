@@ -1,0 +1,32 @@
+-What is express.js?
+
+    1. Framework for NodeJs -> helps to create maintain server (server side coding)
+    more easily with less effort.
+    2. Helps to write most of the logics in server
+    side, REST API for mobile, desktop, web
+    3. Easy to learn 
+    4.saves time (many things are already created)
+
+MERN Stack = MongoDB, Express, React, Node
+NERD Stack = Node, Express, React, Databse 
+PERN Stack = PostgreSQL, Express, React, Node
+
+
+-What is Rest API?
+    database <-----> webserver <-----> (Restful API) <------> Your Website Application
+
+API method - GET, POST, DELETE 
+
+
+-why express.js?
+
+-server side, client side, api, databse
+
+
+-Simple REST API:
+
+    HTTP method: (CRUD)
+        C -----> Create ------>  POST
+        R -----> Read   ------>  GET
+        U -----> Update ------>  PUT
+        D -----> Delete ------>  DELETE
